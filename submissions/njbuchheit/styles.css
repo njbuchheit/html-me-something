@@ -7,20 +7,20 @@ body {
 
 h1 {
     font-family: Arial;
-    font-size: 24px;
+    font-size: 32px;
 }
 
 p {
     font-family: Arial;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 h3 {
     font-family: Arial;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 figcaption {
     font-family: Arial;
-    font-size: 10px;
+    font-size: 12px;
 }
