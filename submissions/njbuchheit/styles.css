@@ -34,7 +34,7 @@ figcaption {
     text-align: center;
 }
 
-h3 figcaption {
+li h3 figure figcaption {
     font-family: Arial;
     font-size: 12px;
     text-align: center;
