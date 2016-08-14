@@ -20,7 +20,20 @@ h3 {
     font-size: 20px;
 }
 
+.lesson_para {
+    background-color: darkgrey;
+}
+
+#parital {
+    font-style: italic;
+}
+
 figcaption {
     font-family: Arial;
     font-size: 12px;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
 }
