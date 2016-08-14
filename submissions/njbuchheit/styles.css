@@ -37,3 +37,7 @@ figcaption {
 footer {
     text-align: right;
 }
+
+li {
+    padding: 30px 30px 30px 30px;
+}
