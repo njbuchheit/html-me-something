@@ -22,6 +22,7 @@ h3 {
 
 .lesson_para {
     background-color: darkgrey;
+    margin-left: 40px;
 }
 
 #parital {
@@ -43,7 +44,7 @@ li {
 }
 
 header p {
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .imagemarg {
