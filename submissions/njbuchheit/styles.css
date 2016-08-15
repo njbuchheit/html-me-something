@@ -57,5 +57,10 @@ header p {
 
 img {
     width: 100%;
-    border: 2px solid black;
+}
+
+.imgframe {
+    background: darkgray;
+    padding: 4px;
+    border: 1px solid black;
 }
