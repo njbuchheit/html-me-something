@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    max-width: 1024px;
+    max-width: 1200px;
     margin: 0 auto;
     background-color: lightgrey;
 }
@@ -53,8 +53,4 @@ header p {
 
 #endpara {
     margin-left: 40px;
-}
-
-.imagemarg {
-    margin-left: -100 auto;
 }
