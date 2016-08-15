@@ -3,6 +3,8 @@ body {
     max-width: 1024px;
     margin: 0 auto;
     background-color: lightgrey;
+    border-color: black;
+    border-width: medium;
 }
 
 h1 {
@@ -22,7 +24,7 @@ h3 {
 
 .lesson_para {
     background-color: darkgrey;
-    margin-left: 40px;
+    margin-left: 80px;
 }
 
 #parital {
