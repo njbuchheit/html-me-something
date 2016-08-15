@@ -33,6 +33,7 @@ figcaption {
     font-family: Arial;
     font-size: 14px;
     text-align: center;
+    font-weight: bold;
 }
 
 footer {
@@ -65,9 +66,4 @@ img {
     background: #FFFFFF;
     padding: 4px;
     border: 1px solid black;
-}
-
-#imagecent {
-    display: block;
-    margin: auto;
 }
