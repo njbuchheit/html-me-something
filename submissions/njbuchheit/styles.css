@@ -3,8 +3,6 @@ body {
     max-width: 1024px;
     margin: 0 auto;
     background-color: lightgrey;
-    border-color: black;
-    border-width: medium;
 }
 
 h1 {
@@ -33,7 +31,7 @@ h3 {
 
 figcaption {
     font-family: Arial;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -42,7 +40,7 @@ footer {
 }
 
 section {
-    padding: 30px 10px;
+    padding: 30px 30px;
 }
 
 header {
@@ -55,4 +53,8 @@ header p {
 
 #endpara {
     margin-left: 40px;
+}
+
+img {
+    width: 100%;
 }
