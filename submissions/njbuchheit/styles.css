@@ -1,5 +1,4 @@
 body {
-    width: 100%;
     max-width: 1024px;
     margin: 0 auto;
     background-color: lightgrey;
@@ -48,10 +47,6 @@ section {
 
 header {
     margin-left: 80px;
-}
-
-header p {
-    margin-left: 0px;
 }
 
 #endpara {
